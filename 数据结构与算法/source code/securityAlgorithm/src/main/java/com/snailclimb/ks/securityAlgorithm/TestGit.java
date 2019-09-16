@@ -12,5 +12,7 @@ public class TestGit {
 
 
         System.out.println("hello world");
+
+        System.out.println("hello,git2");
     }
 }
